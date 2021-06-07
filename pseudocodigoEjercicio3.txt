@@ -1,0 +1,16 @@
+Algoritmo Ejercicio3
+	
+	Escribir "Ingrese un numero"
+	Leer N
+	z = 1
+	
+	Hacer
+		
+		z = z * N
+		N = N - 1
+		
+	Hasta Que N = 0
+	
+	Escribir "n! = " z
+	
+FinAlgoritmo
